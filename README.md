@@ -1,6 +1,16 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# Crowdfunding Smart Contract
+
+This is a Hardhat-based Crowdfunding Smart Contract project.
+
+## Setup
+
+1. **Installiere die Abhängigkeiten**  
+   ```bash
+   npm install
+
+   # Sample Hardhat Project
+
 
 Try running some of the following tasks:
 
